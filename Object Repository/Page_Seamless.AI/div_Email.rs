@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email</name>
+   <tag></tag>
+   <elementGuidId>04203d5c-ff76-4a88-8955-054aaee6ca11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/form/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.LoginForm__FieldTitle-ifUcdy.hIhdQl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>315a8efb-e0d4-4a20-b7b0-cb7a1255c379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LoginForm__FieldTitle-ifUcdy hIhdQl</value>
+      <webElementGuid>5415f9fb-09f1-4a5d-b99f-7166b94d9bf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>38c90e53-db02-4a04-a806-5f963bf292c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;Login__PageContainer-bgcuIm ekPeHA&quot;]/div[@class=&quot;Login__PageContent-gKexkc OJLbH&quot;]/div[@class=&quot;Login__LoginContainer-iJlZxi cLwXrh&quot;]/div[@class=&quot;Login__ContentContainer-hngDYw cRSAYX&quot;]/div[@class=&quot;Login__LoginContent-bTpVAY hDVhzS&quot;]/div[@class=&quot;Card-gbPJyN Login__LoginCard-ikszXZ cHaKUc etpPHE&quot;]/form[@class=&quot;LoginForm__StyledForm-liKLSt cyDcxR&quot;]/div[@class=&quot;LoginForm__FormFields-hnBkNf khdANp&quot;]/div[@class=&quot;LoginForm__FormField-jtAvck beuCGF&quot;]/div[@class=&quot;LoginForm__FieldTitle-ifUcdy hIhdQl&quot;]</value>
+      <webElementGuid>f574cbf4-741c-4b89-b574-5703b3ce9fb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/form/div/div/div</value>
+      <webElementGuid>87de10a8-776f-4ebe-a245-659c3af1e426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>3a80224e-1d38-4e72-b6ff-75f10a592867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email' or . = 'Email')]</value>
+      <webElementGuid>41205831-737f-4551-9203-e1ee290f88b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

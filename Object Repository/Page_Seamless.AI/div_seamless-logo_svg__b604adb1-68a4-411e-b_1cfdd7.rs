@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_seamless-logo_svg__b604adb1-68a4-411e-b_1cfdd7</name>
+   <tag></tag>
+   <elementGuidId>e8f12786-8510-4769-ae04-23b42ab4956c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Login__LoginContainer-iJlZxi.cLwXrh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>671c506c-f03c-47e0-bdb5-cd953599fc98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Login__LoginContainer-iJlZxi cLwXrh</value>
+      <webElementGuid>5a5bc218-3a31-4e2f-8186-84ca231d7e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>.seamless-logo_svg__b604adb1-68a4-411e-b903-fa817d11fcc6{fill:#149ceb}Sign InSign in with GoogleSign in with LinkedInSign in with OktaOREmailPasswordLoginForgot password?Login via SSODon't have an account?Sign Up© Seamless.AI 2023•Privacy•Terms of Use</value>
+      <webElementGuid>d796164c-6637-47d8-863d-33a7f146f1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;Login__PageContainer-bgcuIm ekPeHA&quot;]/div[@class=&quot;Login__PageContent-gKexkc OJLbH&quot;]/div[@class=&quot;Login__LoginContainer-iJlZxi cLwXrh&quot;]</value>
+      <webElementGuid>9dee4437-689f-44ac-9e16-fc9f416a4ac5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div</value>
+      <webElementGuid>134c776d-df48-4f6a-a7ee-0470d1f0cba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>8c50f94f-e19b-42ba-9fce-d64fb90e9ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;.seamless-logo_svg__b604adb1-68a4-411e-b903-fa817d11fcc6{fill:#149ceb}Sign InSign in with GoogleSign in with LinkedInSign in with OktaOREmailPasswordLoginForgot password?Login via SSODon&quot; , &quot;'&quot; , &quot;t have an account?Sign Up© Seamless.AI 2023•Privacy•Terms of Use&quot;) or . = concat(&quot;.seamless-logo_svg__b604adb1-68a4-411e-b903-fa817d11fcc6{fill:#149ceb}Sign InSign in with GoogleSign in with LinkedInSign in with OktaOREmailPasswordLoginForgot password?Login via SSODon&quot; , &quot;'&quot; , &quot;t have an account?Sign Up© Seamless.AI 2023•Privacy•Terms of Use&quot;))]</value>
+      <webElementGuid>eaeef8d1-4704-4983-b203-f1d16cba1f71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
